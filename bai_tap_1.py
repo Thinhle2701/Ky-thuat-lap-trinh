@@ -1,0 +1,8 @@
+x = input("moi ban nhap so x: ")
+y = input("moi ban nhap so y: ")
+int(x)
+int(y)
+print("x + y =",x + y)
+print("x - y =",int(x) - int(y))
+print("x x y =",int(x) * int(y))
+print("x : y =",int(x) / int(y))
